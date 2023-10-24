@@ -1,5 +1,5 @@
 
-# My-Github
+# University of Maryland System Database
 Background about the firm:
 We are a group of analysts striving to improve the University of Maryland’s database in order to fully utilize course 
 assignments, enhance the degree completion rate, and meet demand for courses and instructors.
